@@ -5,7 +5,7 @@ const App = () => {
     return (
         <div className='ui container comments'>
             <div className='comments'>
-                <a href = "\" className="avatar">
+                <a href = "\" className='avatar'>
                     <img alt="avatar" />
                 </a>
                 <div className='content'> 
